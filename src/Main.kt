@@ -32,11 +32,11 @@ import java.io.File
      }
      println("Accounts loaded: ${dataList.size}")
 
-     for (account in dataList) {
+     /*for (account in dataList) {
          println("${account.website} - ${account.user} - ${account.password}")
      }
 
-
+    */
     var userOption: String
 
     //Using do while loop to display the menu and develop all options

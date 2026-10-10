@@ -7,9 +7,7 @@ This program is a basic password manager created with Kotlin, that let the user 
 with its respectively data.
 
 
-{Provide a link to your YouTube  minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Link Software Demo Video: https://www.youtube.com/watch?v=56FFw6KJJ_I
 
 # Development Environment
 
@@ -31,6 +29,7 @@ Kotlin Standard Library: https://kotlinlang.org/api/core/kotlin-stdlib/
 Java File Class Documentation: https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/io/File.html
 # Future Work
 
+- Improve all data validation en special case sensitive
 - This program have sensibility information because manage passwords, by now all data are fictitious, but in the future I am planning to add encryption to protect stored passwords.
 - Add a master password to control access to the software
 - Develop a mobile app version
